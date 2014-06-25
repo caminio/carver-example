@@ -1,0 +1,28 @@
+{
+  "name": "carver-example",
+  "version": "0.0.1",
+  "description": "demonstrates the use of carver",
+  "main": "generator.js",
+  "dependencies": {
+    "carver": "~0.1.2",
+    "jade": "~1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/caminio/carver-example.git"
+  },
+  "keywords": [
+    "carver",
+    "example"
+  ],
+  "author": "thorsten zerha <quaqua@tastenwerk.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caminio/carver-example/issues"
+  },
+  "homepage": "https://github.com/caminio/carver-example"
+}
